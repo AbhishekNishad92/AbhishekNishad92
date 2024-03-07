@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =============================================================================================================================================
 
 *   🌍  I'm based in Noida
-*   ✉️  You can contact me at [nishad.abhishek0005@gmail.com](mailto:nishad.abhishek0005@gmail.com)
+*   ✉️  You can contact me at [nishad.abhishek0005@gmail.com](mailto:abhishek.nishad700@gmail.com)
 *   🧠  I'm learning Generative AI, Machine Learning
 *   🤝  I'm open to collaborating on UIPATH<a href="https://www.github.com/" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills 
