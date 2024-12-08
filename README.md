@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abhishek Kumar Nishad
 =============================================================================================================================================
 
-*   🌍  I'm based in Noida
+*   🌍  I'm based in Gurugram
 *   ✉️  You can contact me at [abhishek.92kit@gmail.com](mailto:abhishek.nishad700@gmail.com)
 *   🧠  I'm learning Generative AI, Machine Learning
 *   🤝  I'm open to collaborating on UIPATH<a href="https://www.github.com/" target="_blank" rel="noreferrer"><img
